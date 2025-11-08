@@ -9,7 +9,7 @@
 
 ## 🚀 Overview
 
-Welcome to my **personal portfolio website**, built to showcase my skills, projects, and education in a futuristic **Galactic Neon** theme.  
+Welcome to my **personal Profile-Page website**, built to showcase my skills, projects, and education in a futuristic **Galactic Neon** theme.  
 The site blends simplicity, animation, and performance — powered purely by **HTML5 + CSS3**, no frameworks, no JavaScript.
 
 🔗 **Live Site:** [rohan-bawchikar.github.io/Profile-Page-Day5](https://rohan-bawchikar.github.io/Profile-Page-Day5/)  
